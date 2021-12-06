@@ -62,7 +62,7 @@ Widget _builder(
       );
 
   return Container(
-    height: height/2,
+    height: height,
     decoration: BoxDecoration(
       color: _backgroundColor,
       borderRadius: _borderRadius,
